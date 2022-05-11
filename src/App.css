@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.firsthead{
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+.card{
+  margin-left: 70px;
+  font-family: "Times New Roman", Times, serif;
+ 
+}
+#criccard{
+  block-size: 400px;
+  margin-right: -70px;
+  margin-left:50px ;
+}
+.navbar{
+  font-family: "Times New Roman", Times, serif;
+  
+}
